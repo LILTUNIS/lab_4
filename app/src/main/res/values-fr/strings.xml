@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CST2335 Lab 4</string>
+    <string name="add_button">Ajouter</string>
+    <string name="urgent_switch">Urgent</string>
+    <string name="type_here">Ecrivez ici</string>
+    <string name="delete_dialog_title">Voulez-vous supprimer ceci?</string>
+    <string name="delete_dialog_message">Voulez-vous vraiment supprimer l\'élément %d?</string>
+    <string name="delete_dialog_positive_button">Supprimer</string>
+    <string name="delete_dialog_negative_button">Annuler</string>
+
+</resources>
